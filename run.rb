@@ -1,3 +1,7 @@
+# run the code by passing the values of the ropes as parameters
+# e.g
+# ruby run.rb 1 2 3 4
+
 @cost_biggest = 0
 @cost_smallest = 0
 
